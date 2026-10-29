@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tech News</title>
+    <link>https://www.technews.com</link>
+    <description>Las últimas novedades tecnológicas</description>
+    <language>es-es</language>
+    <lastBuildDate>Thu, 22 Oct 2026 18:00:00 GMT</lastBuildDate>
+
+    <item>
+      <title>Nueva actualización de software</title>
+      <link>https://www.technews.com/nueva-actualizacion</link>
+      <description>Se ha lanzado una nueva versión del software ABC con mejoras de seguridad, corrección de errores críticos y un rendimiento más estable en equipos con pocos recursos.</description>
+      <pubDate>Mon, 19 Oct 2026 12:00:00 GMT</pubDate>
+      <guid>https://www.technews.com/nueva-actualizacion</guid>
+    </item>
+
+    <item>
+      <title>Avances en inteligencia artificial</title>
+      <link>https://www.technews.com/avances-ia</link>
+      <description>Los últimos avances en inteligencia artificial están cambiando el mundo de la tecnología: nuevos modelos más eficientes y herramientas que ya se usan en empresas, educación y salud.</description>
+      <pubDate>Wed, 21 Oct 2026 08:30:00 GMT</pubDate>
+      <guid>https://www.technews.com/avances-ia</guid>
+    </item>
+
+    <item>
+      <title>Evento de lanzamiento del nuevo smartphone</title>
+      <link>https://www.technews.com/evento-smartphone</link>
+      <description>Se ha anunciado un nuevo evento para presentar el smartphone del año, con novedades en cámara, batería y conectividad que se darán a conocer en directo.</description>
+      <pubDate>Thu, 22 Oct 2026 09:45:00 GMT</pubDate>
+      <guid>https://www.technews.com/evento-smartphone</guid>
+    </item>
+  </channel>
+</rss>
