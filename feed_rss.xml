@@ -4,6 +4,7 @@
     <title>Tech News</title>
     <link>https://www.technews.com</link>
     <description>Las últimas novedades tecnológicas</description>
+       <atom:link href="https://popinais-cloud.github.io/tech-news/feed_rss.xml" rel="self" type="application/rss+xml"/>
     <language>es-es</language>
     <lastBuildDate>Thu, 22 Oct 2026 18:00:00 GMT</lastBuildDate>
 
